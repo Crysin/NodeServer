@@ -1,46 +1,50 @@
-var nextResourceId = 1;
+var nextResourceId = 0;
 fs = require('fs');
+
+var newData = [];
+var jsonData;
+
+fs.open('test.json','a+',function(err,fd)
+{
+    if(err)
+    {
+        console.error(err.stack);
+        return;
+    }
+    fs.readFile('test.json',function(err,data){
+        if(err)
+        {
+            console.error(err.stack);
+            return;
+        }
+        if(data.toString().length ==0)
+        {
+            fs.appendFile('test.json','[]', function(err)
+            {
+                if(err) throw err;
+            });
+        }
+        else
+        {
+
+            jsonData = JSON.parse(data);
+            newData = jsonData;
+            nextResourceId = newData.length;
+            console.log(newData[0]);
+        }
+        fs.close(fd,function()
+        {
+            console.log('Done');
+        });
+    });
+});
+
 OntologueProvider = function() {
-    var newData = [];
-    var jsonData;
 
     this.fetchAllResources = function(cb) {
-        console.log(newData.length)
-        fs.open('test.json','a+',function(err,fd)
-        {
-            if(err)
-            {
-                console.error(err.stack);
-                return;
-            }
-            console.log("FD: " + fd);
-            fs.readFile('test.json', function(err, data){
-                console.error(err);
-                if(data.toString().length ==0)
-                {
-                    fs.appendFile('test.json','[]', function(err)
-                    {
-                        if(err) throw err;
-                    });
-                }
-                else
-                {
-                    jsonData = newData;
-                    jsonData.toString();
-                    //jsonData = JSON.parse(jsonData);
-                    console.log(jsonData)
-                    fs.appendFile('test.json',jsonData, function(err)
-                    {
-                        if(err) throw err;
-                    });
-                }
+                 console.log(jsonData);
+                //jsonData = JSON.parse(newData);
                 cb(null, jsonData);
-                fs.close(fd,function()
-                {
-                    console.log('Done');
-                });
-            });
-        });
     };
 
     this.fetchResourceById = function(id, cb) {
@@ -54,12 +58,23 @@ OntologueProvider = function() {
     };
 
     this.insertResource = function(resource, cb) {
-                //resource = resource.toString();
-                //resource = JSON.parse(resource);
-                //resource = JSON.parse(resource);
-                console.log(resource);
-                newData.push(resource);
+        resource.id = nextResourceId++;
+        newData.push(resource);
+        jsonData = newData;
+        jsonData.toString();
+        fs.open('test.json','a+',function(err,fd)
+        {
+            fs.writeFile('test.json',JSON.stringify(jsonData), function(err)
+            {
+                if(err) throw err;
+            });
+
+            fs.close(fd,function()
+            {
+                console.log('Done');
                 cb(null, resource);
+            });
+        });
     };
 
     this.updateResource = function(resource, cb) {
