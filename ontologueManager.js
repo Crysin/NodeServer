@@ -1,12 +1,13 @@
 OntologueManager = function(app) {
     var OntologueProvider = require('./ontologueProvider').OntologueProvider;
     var ontologueProvider = new OntologueProvider();
+    /*
     ontologueProvider.insertResource(
         {creationDate:"10/30/2013",uri: "img/resources/cat-image_1.jpg",width: 800,height: 600,tags:["cat:","dog"]}, function(a,b){});
     ontologueProvider.insertResource(
         {creationDate:'10/30/2013',uri:'img/resources/cat-image_2.jpg',width:800,height:600,tags:["cat","dog"]}
         , function(a,b){});
-
+*/
     app.get('/resources', function(req, res) {
         ontologueProvider.fetchAllResources(function(error, resources) {
             res.send(resources);
