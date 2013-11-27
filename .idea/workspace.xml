@@ -2,8 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2986249-38e2-4e66-b311-c28d3e2659cf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/.gitmodules" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/.gitmodules" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/.npmignore" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/.npmignore" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/AUTHORS" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSFontFaceRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSFontFaceRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSImportRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSImportRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSKeyframeRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSKeyframeRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSKeyframesRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSKeyframesRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSMediaRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSMediaRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleDeclaration.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleDeclaration.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleRule.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleRule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleSheet.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/CSSStyleSheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/LICENSE-W3C.html" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/LICENSE-W3C.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/LICENSE" afterPath="$PROJECT_DIR$/node_modules/stylus/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/LICENSE" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/LICENSE" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/MediaList.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/MediaList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/README.md" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/README.mdown" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/README.mdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/Readme.md" afterPath="$PROJECT_DIR$/node_modules/stylus/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/StyleSheet.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/StyleSheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/arguments.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/arguments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/attribute-name.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/attribute-name.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/big-not-pretty.xml" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/big-not-pretty.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/binop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/binop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/block.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/block.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/bm.js" afterPath="$PROJECT_DIR$/node_modules/stylus/bm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/boolean.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/boolean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/browserify.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/browserify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/buffer-overrun.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/buffer-overrun.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/call.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/call.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/case.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/case.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-chunked.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-chunked.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-end-split.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-end-split.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-fake-end.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-fake-end.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-multiple.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata-multiple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cdata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/charset.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/charset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/chmod.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/chmod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/clobber.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/clobber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/clone.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/clone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/colors.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/colors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/comment.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/comment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/compiler.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/compiler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/component.json" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/convert/css.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/convert/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cyrillic.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/cyrillic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/duplicate-attribute.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/duplicate-attribute.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/each.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/each.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/entities.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/entities.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/entity-mega.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/entity-mega.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/errors.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/evaluator.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/evaluator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/example.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/example.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/express" afterPath="$PROJECT_DIR$/node_modules/.bin/express" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/expression.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/expression.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/extend.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/extend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/fontface.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/fontface.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/frame.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/function.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/get-products.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/get-products.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/group.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/group.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/hello-world.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/hello-world.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/hsla.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/hsla.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ident.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ident.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/if.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/if.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/import.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/import.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/index.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.styl" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.styl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-23.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-23.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-30.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-30.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-35.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-35.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-47.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-47.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-49.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-49.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-84.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/issue-84.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/jsliteral.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/jsliteral.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/keyframes.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/keyframes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/lexer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/lexer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/literal.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/literal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/media.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/member.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/member.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/middleware.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/middleware.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/mkdirp.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/mozdocument.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/mozdocument.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/node.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/node.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/normalizer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/normalizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/not-pretty.xml" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/not-pretty.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/null.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/null.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/object.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/object.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ontologueManager.js" afterPath="$PROJECT_DIR$/ontologueManager.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ontologueProvider.js" afterPath="$PROJECT_DIR$/ontologueProvider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/package.json" afterPath="$PROJECT_DIR$/node_modules/stylus/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/package.json" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/page.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/params.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/params.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/parse.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/cssom/lib/parse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/parser-position.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/parser-position.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/parser.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/perm.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/perm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/perm_sync.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/perm_sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/examples/pow.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/examples/pow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/pretty-print.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/pretty-print.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/property.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/property.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/race.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/race.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/readme.markdown" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/readme.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/rel.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/rel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/renderer.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/renderer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/resolver.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/resolver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/return.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/return.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/return.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/return.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/return_sync.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/return_sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/rgba.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/rgba.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/root.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/root.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/lib/sax.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/lib/sax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stack/scope.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/scope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/script-close-better.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/script-close-better.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/script.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/selector.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/selector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-child-strict.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-child-strict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-child.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-child.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-tag.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/self-closing-tag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/shopping.xml" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/shopping.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/stray-ending.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/stray-ending.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/strict.dtd" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/strict.dtd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/string.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/stylus.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stylus.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/stylus" afterPath="$PROJECT_DIR$/node_modules/.bin/stylus" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/sync.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ternary.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ternary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/test.html" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.json" afterPath="$PROJECT_DIR$/test.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/test.xml" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/examples/test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/token.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/token.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/trailing-attribute-no-value.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/trailing-attribute-no-value.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/trailing-non-whitespace.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/trailing-non-whitespace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/umask.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/umask.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/umask_sync.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/mkdirp/test/umask_sync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unaryop.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unaryop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/unclosed-root.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/unclosed-root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unit.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/units.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/units.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/unquoted.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/unquoted.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/functions/url.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/utf8-split.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/utf8-split.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/lib/utils.js" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-issue-41.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-issue-41.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-rebinding.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-rebinding.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-strict.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-strict.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-unbound-element.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-unbound-element.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-unbound.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-unbound.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-ns.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-ns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-prefix-attribute.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-prefix-attribute.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-prefix.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-prefix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-redefine.js" afterPath="$PROJECT_DIR$/node_modules/stylus/node_modules/sax/test/xmlns-xml-default-redefine.js" />
     </list>
     <ignored path="NodeServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,25 +195,34 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ontologueManager.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="userManager.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userManager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ontologueManager.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ontologueManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="49" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+            <state line="27" column="59" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.36889693" vertical-offset="255" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ontologueProvider.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ontologueProvider.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ontologueProvider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="23" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.73656845" vertical-offset="153" max-vertical-offset="1547">
+            <state line="95" column="0" selection-start="2746" selection-end="2746" vertical-scroll-proportion="-50.0" vertical-offset="365" max-vertical-offset="2091">
               <folding />
             </state>
           </provider>
@@ -137,6 +312,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NodeServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -145,7 +352,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ontologue" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Node.js.Node">
@@ -199,25 +406,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.6718576" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5002636" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.49973643" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5002636" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.49973643" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -229,19 +436,28 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+        <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ontologueManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="49" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="1122">
+        <state line="36" column="29" selection-start="1317" selection-end="1320" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontologueProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="27" selection-start="2575" selection-end="2575" vertical-scroll-proportion="0.0" vertical-offset="1615" max-vertical-offset="1785">
           <folding />
         </state>
       </provider>
@@ -253,9 +469,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontologueManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="49" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ontologueProvider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="23" selection-start="1117" selection-end="1117" vertical-scroll-proportion="0.73656845" vertical-offset="153" max-vertical-offset="1547">
+        <state line="34" column="23" selection-start="732" selection-end="732" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userProvider-array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userProvider-array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontologueProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="2746" selection-end="2746" vertical-scroll-proportion="-50.0" vertical-offset="365" max-vertical-offset="2091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ontologueManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="59" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.36889693" vertical-offset="255" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>

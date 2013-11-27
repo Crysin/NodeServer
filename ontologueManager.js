@@ -24,8 +24,9 @@ OntologueManager = function(app) {
         });
     });
 
-    app.get('/resources/:id', function(req, res) {
-        ontologueProvider.fetchResourceById(req.params.id, function(error, resource) {
+    app.get('/resources/:tag', function(req, res) {
+        ontologueProvider.fetchResourceByTag(req.params.tag, function(error, resource) {
+            console.log("External Tags: " + req.params.tag);
             if (resource == null) {
                 res.send(error, 404);
             } else {
@@ -34,9 +35,10 @@ OntologueManager = function(app) {
         });
     });
 
-    app.post('/resources/:id', function(req, res) {
+    app.post('/resources/:tag', function(req, res) {
         var _resource = req.body;
-        _resource._id = req.params.id;
+        console.log("reading");
+        _resource.tags= req.params.tags;
         resourceProvider.updateResource(_resource, function(error, resource) {
             if (resource == null) {
                 res.send(error, 404);

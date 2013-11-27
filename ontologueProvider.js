@@ -1,6 +1,5 @@
 var nextResourceId = 0;
 fs = require('fs');
-
 var newData = [];
 var jsonData;
 
@@ -26,11 +25,9 @@ fs.open('test.json','a+',function(err,fd)
         }
         else
         {
-
             jsonData = JSON.parse(data);
             newData = jsonData;
             nextResourceId = newData.length;
-            console.log(newData[0]);
         }
         fs.close(fd,function()
         {
@@ -42,18 +39,38 @@ fs.open('test.json','a+',function(err,fd)
 OntologueProvider = function() {
 
     this.fetchAllResources = function(cb) {
-                 console.log(jsonData);
-                //jsonData = JSON.parse(newData);
                 cb(null, jsonData);
+                console.log("Tags: " + newData[11].tags[0]);
     };
 
-    this.fetchResourceById = function(id, cb) {
-        var foundResources = newData.filter(function(resource) {return resource._id == id});
+    this.fetchResourceByTag = function(tags, cb) {
+        var termNamesToMatch, foundResources, tagIndex, tagCount, currentTermToMatch, matches;
+        termNamesToMatch = tags.split(',');
+        console.log("Tag Length: " + termNamesToMatch.length);
+        console.log("Tag 0: " + termNamesToMatch[0]);
+        console.log("Tag 1: " + termNamesToMatch[1]);
+        foundResources = newData.filter(function(resource) {
+            tagCount = resource.tags.length;
+            for(tagIndex = 0; tagIndex < tagCount; tagIndex++)
+            {
+                currentTermToMatch = 0;
+                while(currentTermToMatch < termNamesToMatch.length)
+                {
+                    console.log("Resource Tags and Matching Tag: " + resource.tags[tagIndex] + termNamesToMatch[currentTermToMatch]);
+                    if(resource.tags[tagIndex] == termNamesToMatch[currentTermToMatch])
+                    {
+                        matches = resource;
+                    }
+                    currentTermToMatch++;
+                }
+            }
+            return matches;
+        });
 
         if (foundResources.length == 0) {
             cb('Resource not found', null);
         } else {
-            cb(null, foundResources[0]);
+            cb(null, foundResources);
         }
     };
 
@@ -78,7 +95,7 @@ OntologueProvider = function() {
     };
 
     this.updateResource = function(resource, cb) {
-        this.fetchResourceById(resource._id, function(error, _resource) {
+        this.fetchResourceByTag(resource.tags, function(error, _resource) {
             if (error) {
                 cb(error, null);
             } else {
